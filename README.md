@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We're DSF PT09 Group 7 Capstone Project  </h1>
 
-Github Repository: [Click to Open the Project Github Repository](https://github.com/odhinto/Group7_Phase5_Capstone.git)
+Github Repository: [Click to Open the Project Github Repository](https://github.com/mutukuk/Group-7_Phase_5_Capstone.git)
 
 Tableau Dashboard: [Click to Open the Tableau Dashboard](https://public.tableau.com/views/Churn_17414751223480/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
